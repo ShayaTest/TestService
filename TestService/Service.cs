@@ -10,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace TestService
 {
-    public partial class Service1 : ServiceBase
+    public partial class Service : ServiceBase
     {
          
-        public Service1()
+        public Service()
         {
             InitializeComponent();
         }
