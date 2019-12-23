@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class\DBLayer.cs" />
+    <Compile Include="Model\test2.cs" />
     <Compile Include="Service.cs">
       <SubType>Component</SubType>
     </Compile>
